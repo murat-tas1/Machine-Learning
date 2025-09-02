@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints (auto-generated)
+.ipynb_checkpoints/
+
+# Jupyter config / runtime
+.jupyter/
+*.nbconvert.ipynb
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
